@@ -99,7 +99,7 @@ app/src/main/java/com/akash/focuswall/
 - [PRIVACY.md](PRIVACY.md): what data the app does (and doesn't) touch
 
 ## Author
-**Akash Dherange** · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [GitHub](https://github.com/YOUR-USERNAME)
+**S P CHANDAN KANDIKATTU** · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [GitHub](https://github.com/YOUR-USERNAME)
 
 ## License
 MIT. See [LICENSE](LICENSE).
