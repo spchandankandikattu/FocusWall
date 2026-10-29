@@ -8,23 +8,23 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 <p align="center">
-  <img src="screenshots/home.jpg" width="260" alt="FocusWall on the home screen" />
+  <img src="screenshots/screenshots/home.jpg" width="260" alt="FocusWall on the home screen" />
   &nbsp;&nbsp;
-  <img src="screenshots/demo.gif" width="260" alt="FocusWall demo" />
+  <img src="screenshots/screenshots/demo.gif" width="260" alt="FocusWall demo" />
   &nbsp;&nbsp;
-  <img src="screenshots/app.jpg" width="260" alt="FocusWall app screen" />
+  <img src="screenshots/screenshots/app.jpg" width="260" alt="FocusWall app screen" />
 </p>
 <p align="center"><b>Home screen</b> &nbsp;·&nbsp; <b>Demo</b> &nbsp;·&nbsp; <b>App</b></p>
 
 ### Background styles
 <p align="center">
-  <img src="screenshots/aurora.jpg" width="230" alt="Aurora background" />
-  <img src="screenshots/particles.jpg" width="230" alt="Particles background" />
-  <img src="screenshots/calm.jpg" width="230" alt="Calm background" />
+  <img src="screenshots/screenshots/aurora.jpg" width="230" alt="Aurora background" />
+  <img src="screenshots/screenshots/particles.jpg" width="230" alt="Particles background" />
+  <img src="screenshots/screenshots/calm.jpg" width="230" alt="Calm background" />
 </p>
 <p align="center"><b>Aurora</b> &nbsp;·&nbsp; <b>Particles</b> &nbsp;·&nbsp; <b>Calm</b></p>
 
-▶️ [Watch the full demo video](screenshots/demo-full.mp4)
+▶️ [Watch the full demo video](screenshots/screenshots/demo-full.mp4)
 
 ---
 
